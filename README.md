@@ -3,4 +3,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chit0mx&show_icons=true&theme=github_dark&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chit0mx&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chit0mx&theme=github_dark)]
